@@ -1,0 +1,35 @@
+img{
+    border: 2px;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+    margin: auto;
+    
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: pink
+}
+
+#info{
+    color: hotpink;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-style: solid;
+    background-color: lightgray;
+}
+
+#about-me{
+    color: lightgreen;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    border-style: dashed;
+}
